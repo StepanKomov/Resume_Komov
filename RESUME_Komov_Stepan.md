@@ -38,4 +38,4 @@
 
 ## Контакты
 - Email `guitarproga@gmail.com`  
-- GitHub `https://github.com/StepanKomov/Resume_Komov.git`  
+- GitHub <https://github.com/StepanKomov/Resume_Komov.git>
